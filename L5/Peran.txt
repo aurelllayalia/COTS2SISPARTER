@@ -1,0 +1,4 @@
+Aurell Layalia Safara Az-Zahra Gunawan	1301170231	= Serial Ping, Server Thread (Nomor 2), Running Program
+Brigita Tenggehi	1301170302	= Client Thread (Nomor 2), Laporan
+Christian Hary	1301170348	= Download File Comment (Nomor 3)
+Hafiyy Viazola	1301174032	= Paralel Ping (Nomor 1)
