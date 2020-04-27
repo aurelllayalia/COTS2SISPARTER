@@ -1,0 +1,4 @@
+Aurell Layalia Safara Az-Zahra Gunawan	1301170231	= Point-to-Point Communication (Nomor 1, a dan b), Running Program
+Brigita Tenggehi	1301170302	= Broadcast Communication (Nomor 2), Laporan
+Christian Hary	1301170348	= Menghitung Nilai PI (Nomor 5, a dan b)
+Hafiyy Viazola	1301174032	= Penjumlahan MPI Teknik P2P (Nomor 3), Penjumlahan MPI Teknik Reduce (Nomor 4)
